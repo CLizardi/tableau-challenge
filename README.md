@@ -83,7 +83,7 @@ https://public.tableau.com/app/profile/christian.lizardi/viz/EndingLocationsStat
 # Conclusion
 These dashboards provide a comprehensive view of the ridership patterns and preferences of Citi Bike users in Jersey City. By analyzing and visualizing data related to user types, gender, age, station usage, and trip duration, we can gain valuable insights into the behaviors and preferences of Citi Bike users.
 
-The dashboard was created using Tableau, a powerful data visualization tool that allowed for the creation of visually appealing and user-friendly visualizations. Through the creation of this dashboard, I learned how to effectively use Tableau to visualize complex datasets and communicate insights to stakeholders.
+The dashboards were created using Tableau, a powerful data visualization tool that allowed for the creation of visually appealing and user-friendly visualizations. Through the creation of this dashboard, I learned how to effectively use Tableau to visualize complex datasets and communicate insights to stakeholders.
 
 Overall, the Tableau dashboards presents a valuable resource for bike share program managers, city planners, and other stakeholders who are looking to make informed decisions about the Citi Bike program. By providing insights into the ridership patterns and preferences of Citi Bike users, the dashboard can help improve the overall experience of Citi Bike users and promote the growth and sustainability of the bike share program.
 
