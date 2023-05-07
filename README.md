@@ -47,7 +47,11 @@ https://public.tableau.com/app/profile/christian.lizardi/viz/Durationofbiketrips
 
 # Station Analysis
 
-This is an important aspect of understanding the ridership patterns of a bike share program. By looking at the starting and ending stations of each trip, we can gain insights into where the most popular bike trip starting and ending points are, and which areas of the city have the highest demand for bike sharing services. This may be able to help bike share program managers and city planners make informed decisions about where to allocate resources and how to improve the program.
+Understanding the starting and ending stations of each Citi Bike trip is an important aspect of analyzing ridership patterns and demand for bike sharing services. By focusing on the stations with at least 1000 entries, the Station Analysis section of the dashboard provides valuable insights into the most heavily used stations in Jersey City.
+
+These visualizations can help bike share program managers and city planners make informed decisions about where to allocate resources and how to improve the program to better meet the needs of riders. By identifying the most popular bike trip starting and ending points, they can ensure that there are enough bikes, bike docks, and infrastructure in these areas to meet the demand.
+
+Overall, the Station Analysis section provides a comprehensive view of the ridership patterns and preferences of Citi Bike users in Jersey City, which can be useful for city planners and bike share program managers who are looking to make data-driven decisions about the program.
 
 ## Most Popular Start Stations
 
