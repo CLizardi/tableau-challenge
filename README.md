@@ -1,8 +1,13 @@
-# Tableau Module - Citi Bike Analytics
+# Insights into Citi Bike Ridership in Jersey City - Citi Bike Analytics
+
 ![citibike](https://user-images.githubusercontent.com/52866379/236699372-a33ddf2e-9697-46fa-b67b-33f75cbe8f5d.png)
 
 # Dashboards
-From the Citi Bike data, I've created two corresponding dashboards to provide a comprehensive analysis and visualization of the data.
+These dashboard's were created to provide a comprehensive view of the ridership patterns and preferences of Citi Bike users in Jersey City. The dashboard was created using Tableau, a powerful data visualization tool, and provides a variety of visualizations that allow users to explore different aspects of the Citi Bike program, including user analysis, station analysis, and geographic analysis. 
+
+The dashboards were designed to be user-friendly and interactive, allowing users to filter the data based on different criteria, such as user type, gender, and age. The visualizations in the dashboards are also designed to be visually appealing and easy to understand, making it easy for users to gain insights into the data without needing to have a deep understanding of data analysis or statistics.
+
+This is a valuable resource for bike share program managers and city planners who are looking to make informed decisions about the allocation of resources, pricing strategies, and infrastructure improvements for the Citi Bike program. By providing insights into the ridership patterns and preferences of Citi Bike users, the dashboard can help bike share program managers and city planners make informed decisions that will improve the overall experience of Citi Bike users and promote the growth and sustainability of the bike share program.
 
 ![Dashboard 1](https://user-images.githubusercontent.com/52866379/236699374-8d0b3019-5f3d-412e-958a-2fd89f835fce.png)
 https://public.tableau.com/app/profile/christian.lizardi/viz/CitiBikeVisualization_16834855967760/Dashboard1?publish=yes
@@ -44,13 +49,19 @@ https://public.tableau.com/app/profile/christian.lizardi/viz/Durationofbiketrips
 
 This is an important aspect of understanding the ridership patterns of a bike share program. By looking at the starting and ending stations of each trip, we can gain insights into where the most popular bike trip starting and ending points are, and which areas of the city have the highest demand for bike sharing services. This may be able to help bike share program managers and city planners make informed decisions about where to allocate resources and how to improve the program.
 
+## Most Popular Start Stations
+
 ![Start Stations (At Least 1000 Entries)](https://user-images.githubusercontent.com/52866379/236699381-9cfa69c7-131c-44a0-a578-1ef47d3f03ad.png)
 https://public.tableau.com/app/profile/christian.lizardi/viz/StartStationsAtLeast1000Entries/StartStationsAtLeast1000Entries
+
+## Most Popular End Stations
 
 ![End Stations (At Least 1000 Entries)](https://user-images.githubusercontent.com/52866379/236699377-9bc84779-609c-4e87-9397-3a786b3317d3.png)
 https://public.tableau.com/app/profile/christian.lizardi/viz/EndStationsAtLeast1000Entries/EndStationsAtLeast1000Entries
 
-The Start Station Names vs. Number of Records visualization is a bar chart that displays the number of trips that started at each Citi Bike station with at least 1000 entries. This visualization is useful for gaining insights into the popularity of different Citi Bike stations and the ridership patterns at these stations. The bar chart shows that there are several stations that have a much higher number of trips than others, such as Grove St PATH, Newport Pkwy, and Hamilton Park. These stations may be important hubs for the Citi Bike program, and understanding the ridership patterns at these stations can help bike share program managers and city planners make informed decisions about where to allocate resources and how to improve the program. Overrall, this visualization provides a useful summary of the ridership patterns at different Citi Bike stations, helping bike share program managers and city planners make informed decisions to improve the program and meet the needs of riders.
+## Start Station Names vs. Number of Records
+
+The Start Station Names vs. Number of Records visualization is a bar chart that displays the number of trips that started at each Citi Bike station with at least 1000 entries. This visualization is useful for gaining insights into the popularity of different Citi Bike stations and the ridership patterns at these stations. The bar chart shows that there are several stations that have a much higher number of trips than others, such as Grove St PATH, Hamilton Park, Exchange Plance, and Newport Path. These stations may be important hubs for the Citi Bike program, and understanding the ridership patterns at these stations can help bike share program managers and city planners make informed decisions about where to allocate resources and how to improve the program. Overrall, this visualization provides a useful summary of the ridership patterns at different Citi Bike stations, helping bike share program managers and city planners make informed decisions to improve the program and meet the needs of riders.
 
 ![Start Popular](https://user-images.githubusercontent.com/52866379/236699380-e570aec8-ad93-47e6-9a00-3066f8edd10b.png)
 https://public.tableau.com/app/profile/christian.lizardi/viz/StartPopular/StartPopular
