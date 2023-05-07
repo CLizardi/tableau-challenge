@@ -1,6 +1,9 @@
 # Tableau Module - Citi Bike Analytics
-
 ![citibike](https://user-images.githubusercontent.com/52866379/236699372-a33ddf2e-9697-46fa-b67b-33f75cbe8f5d.png)
+
+# Dashboards
+From the Citi Bike data, I've created two corresponding dashboards to provide a comprehensive analysis and visualization of the data.
+
 ![Dashboard 1](https://user-images.githubusercontent.com/52866379/236699374-8d0b3019-5f3d-412e-958a-2fd89f835fce.png)
 https://public.tableau.com/app/profile/christian.lizardi/viz/CitiBikeVisualization_16834855967760/Dashboard1?publish=yes
 
