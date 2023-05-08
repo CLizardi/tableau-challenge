@@ -34,7 +34,13 @@ This visualization shows the average duration of bike trips for subscribers and 
 https://public.tableau.com/app/profile/christian.lizardi/viz/UserTypevs_AverageTripDuration/UserTypevs_AverageTripDuration
 
 ## Average Trip Duration by Gender Bar Graph
-This visualization shows the average duration of bike trips by gender. By using different colors to represent male and female riders, we can see that female riders tend to take longer trips than male riders. This information can be useful for bike share program managers and city planners who are looking to target specific populations with bike share promotions or infrastructure improvements.
+This visualization shows the average duration of bike trips by gender. By using different colors to represent male and female riders, we can see that female riders tend to take longer trips than male riders. This information can be useful for bike share program managers and city planners who are looking to target specific populations with bike share promotions or infrastructure improvements. 
+
+In the Citi Bike dataset used for this project, gender is represented by the numbers 0, 1, and 2. According to the Citi Bike data documentation, gender is coded as follows:
+
+0: Unknown
+1: Male
+2: Female
 
 ![Trip Duration Vs Gender](https://user-images.githubusercontent.com/52866379/236699386-1504c105-7c17-4c33-9477-6884b79475f6.png)
 https://public.tableau.com/app/profile/christian.lizardi/viz/TripDurationVsGender/TripDurationVsGender
