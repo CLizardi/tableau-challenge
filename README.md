@@ -1,4 +1,4 @@
-# Insights into Citi Bike Ridership in Jersey City - Citi Bike Analytics
+# Insights into Citi Bike Ridership in Jersey City - Citi Bike Analytic
 
 ![citibike](https://user-images.githubusercontent.com/52866379/236699372-a33ddf2e-9697-46fa-b67b-33f75cbe8f5d.png)
 
